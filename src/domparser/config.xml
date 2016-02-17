@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<market id="Магазин">
+    <department id="Хозтовары">
+        <product id="Моющее средство">
+            <title>Фэрри</title>
+            <price>300 рублей</price>
+            <amount type="шт">1</amount>
+        </product>
+        <product id="Стеклоочиститель">
+            <title>Люкс</title>
+            <price>350 рублей</price>
+            <amount type="шт">1</amount>
+        </product>
+        <product id="Мыло">
+            <title>Лесной бальзам</title>
+            <price>120 рублей</price>
+            <amount type="шт">1</amount>
+        </product>
+    </department>    
+</market>
